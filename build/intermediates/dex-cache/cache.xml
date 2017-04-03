@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Androiditemandproject\CoolWeather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Androiditemandproject\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6280ef53f1900df80852d90ee3b7cdb2f19a893b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Androiditemandproject\CoolWeather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dbd1f690b1df0ecfcbc257104d65762dd35b9c9">
+        <dex dex="C:\Androiditemandproject\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1ca3d849cc435c63046a37de3c148e6b0aac6c3f\classes.dex" />
+    </item>
+
+</items>
